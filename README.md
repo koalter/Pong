@@ -1,2 +1,2 @@
 # Pong
-Pong recreado en Phaser
+Pong recreado en Phaser, utilizando el tutorial de gammafp
